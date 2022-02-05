@@ -708,3 +708,16 @@ p {
 .site-link{
 	color: white
 }
+.teamphixit{
+	padding: 10px;
+	background-color: transparent;
+	border: 1px solid white;
+	cursor: pointer;
+	margin: 10px;
+	color: white;
+	border-radius: 5px;
+}
+.teamphixit:hover{
+	background-color: white;
+	color: black;
+}
